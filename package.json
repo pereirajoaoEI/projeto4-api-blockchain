@@ -1,7 +1,7 @@
 {
-  "name": "battleship-tp",
+  "name": "requisitos",
   "version": "1.0.0",
-  "description": "This is migrating Rust code",
+  "description": "projeto4",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/johnjayasingh/battleship-tp-js.git"
+    "url": "https://github.com/pereirajoaoEI/projeto4-api-blockchain.git"
   },
   "keywords": [
     "sawtooth",
     "hyperledger",
     "battleship"
   ],
-  "author": "John Jayasingh S",
-  "license": "ISC",
+  "author": "Joao e Joao",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/johnjayasingh/battleship-tp-js/issues"
+    "url": "https://github.com/pereirajoaoEI/projeto4-api-blockchain.git"
   },
-  "homepage": "https://github.com/johnjayasingh/battleship-tp-js#readme",
+  "homepage": "https://github.com/pereirajoaoEI/projeto4-api-blockchain.git",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
