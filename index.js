@@ -1,2 +1,2 @@
-require('./contract');
-require('./server');
+require("./contract");
+require("./server");
